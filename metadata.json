@@ -1,0 +1,6 @@
+{
+  "name": "Nexeus Alpine",
+  "description": "Curated high-altitude traverses, expert guides, and custom wilderness expeditions worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
